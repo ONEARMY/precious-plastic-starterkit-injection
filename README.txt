@@ -1,4 +1,4 @@
-# Starterkit - Injection Workspace V1.0.1
+# Starterkit - Injection Workspace V1.1
 
 
 YEAH, you made it into a starter-kit!
